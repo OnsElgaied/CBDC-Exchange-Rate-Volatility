@@ -24,7 +24,4 @@ Contains the datasets used in the empirical analysis.
 
 Contains the R scripts used to generate all tables of the manuscript.
 
-## Author
 
-Dr. Ons EL GAIED
-LAMIDED – University of Sousse, Tunisia
